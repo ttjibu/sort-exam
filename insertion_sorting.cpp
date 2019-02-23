@@ -1,7 +1,7 @@
 #include"main.hpp"
 using namespace std;
 
-string Element::sort_name{"insertion_sorting "};
+string Element::sort_name{"insertion_sort"};
 
 void Element::sort_method() {
 	int j,k,i,l;
